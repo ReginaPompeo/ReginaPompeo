@@ -1,5 +1,7 @@
 ## Olá, eu sou a Regina 😊
-
+- Atualmente estagiária em análise de dados
+- :computer: Cursando Análise e Desenvolvimento de Sistemas
+- Sempre abraçando novas aventuras na área, adoro aprender coisas novas e me entusiasmo ao experimentar.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regina-pompeo/)
@@ -26,6 +28,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaPompeo&layout=compact)
 
-Aprendendo e evoluindo sempre!
+
 
 
