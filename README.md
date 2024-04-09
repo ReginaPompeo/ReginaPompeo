@@ -1,5 +1,5 @@
 ## Olá, eu sou a Regina 😊
-- 👩‍💻 Atualmente estagiária em análise de dados
+- 👩‍💻 Atualmente estagiária de TI
 - :computer: Cursando Análise e Desenvolvimento de Sistemas
 - 🚀 Sempre abraçando novas aventuras na área, adoro aprender coisas novas e me entusiasmo ao experimentar.
 <br/>
