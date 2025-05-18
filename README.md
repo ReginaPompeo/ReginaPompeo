@@ -79,6 +79,33 @@
 <img src="https://flagcdn.com/w40/es.png" width="20"/> Espanhol (básico)  
 <img src="https://flagcdn.com/w40/de.png" width="20"/> Alemão (básico)
 
-<br/> 
+<br/>
+
+## 📁 Portfólio de Projetos
+
+### ECOral API Relatórios  
+Projeto inovador focado na interação com ecossistemas marinhos, combinando educação, monitoramento em tempo real e turismo sustentável para conservação dos recifes de corais. Usuários podem acessar dados aquáticos em tempo real e participar da restauração dos recifes através de técnicas de fragmentação controlada.  
+[🔗 Repositório GitHub](https://github.com/ReginaPompeo/ECOral_API_Relatorios)
+
+---
+
+### Web Scraping com .NET + Oracle  
+Aplicação desenvolvida com .NET para realizar web scraping de produtos (nome e preço) e armazenar automaticamente os dados em um banco de dados Oracle. O sistema foi estruturado para simular um processo automatizado de coleta e persistência de dados, garantindo a verificação do armazenamento em tempo real.  
+[🔗 Repositório GitHub](https://github.com/ReginaPompeo/WebScrapping-BD)
+
+---
+
+### ECOral Sensor IoT & Machine Learning  
+Sistema IoT para monitoramento ambiental dos recifes de corais com aplicação de Machine Learning. A solução analisa o branqueamento dos corais com base no aumento da temperatura dos oceanos e realiza projeções econômicas da regeneração via fragmentação controlada, conectando sustentabilidade e impacto no turismo.  
+[🔗 Repositório GitHub](https://github.com/ReginaPompeo/ECOral-Sensor_IOT)
+
+---
+
+### Site em Produção  
+Site profissional desenvolvido para uma advogada, com design responsivo. Projeto com código privado.  
+[🔗 renataoliveiraadvocacia.com.br](https://renataoliveiraadvocacia.com.br/)
+
+<br/>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaPompeo&layout=compact)
+<br/> 
