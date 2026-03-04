@@ -4,18 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ed30cf&random=false&width=435&height=40&lines=Olá,+eu+sou+a+Regina+Pompeo!)](https://git.io/typing-svg)
 
-- 👩🏻‍💻 Atualmente cursando Engenharia de Software e atuando como Assistente de TI  
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas  
+- 👩🏻‍💻 Estagiária de Desenvolvimento Front-end | WordPress, JavaScript e PHP
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas | Cursando Engenharia de Software 
 - 🚀 Sempre abraçando novas aventuras na área, adoro aprender coisas novas e me entusiasmo ao experimentar  
 
 ---
 
 ## 🌐 Idiomas
-
-<img src="https://flagcdn.com/w40/br.png" width="20"/> Português (nativo)  
-<img src="https://flagcdn.com/w40/us.png" width="20"/> Inglês (intermediário)  
-<img src="https://flagcdn.com/w40/es.png" width="20"/> Espanhol (básico)  
-<img src="https://flagcdn.com/w40/de.png" width="20"/> Alemão (básico)
+ 
+<img src="https://flagcdn.com/w40/us.png" width="20"/> Inglês (avançado)  
+<img src="https://flagcdn.com/w40/es.png" width="20"/> Espanhol (intermediário)
 
 ---
 
@@ -23,13 +21,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regina-pompeo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regina.pompeo.dev@gmail.com)
-
----
-
-## 🧠 Estatísticas
-
-![Regina GitHub stats](https://github-readme-stats.vercel.app/api?username=ReginaPompeo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaPompeo&layout=compact)
 
 ---
 
